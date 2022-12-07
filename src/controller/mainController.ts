@@ -147,6 +147,7 @@ const removeOneOrMany = async (req: Request, res: Response) => {
  * THEN IT FETCH ID BASED PARTICULAR RECORDS
  *
  *
+ * WE CAN FETCH WITH KEYS 
  * ---------------------------------------------------
  *
  * */
